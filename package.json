@@ -1,0 +1,25 @@
+{
+  "name": "@sylber/card",
+  "version": "1.0.0",
+  "description": "Bring my beautiful person to your terminal in a simple command.",
+  "main": "index.js",
+  "bin": {
+    "sylber": "./index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bertrand2/npx-card.git"
+  },
+  "author": "Sylber",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bertrand2/npx-card/issues"
+  },
+  "homepage": "https://github.com/Bertrand2/npx-card#readme",
+  "dependencies": {
+    "chalk": "^4.1.0"
+  }
+}
